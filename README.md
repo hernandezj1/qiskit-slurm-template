@@ -8,7 +8,7 @@ Contents
 - __test1.py__ — Example Python job script demonstrating usage of Qiskit and the IBM Quantum runtime (via ibm-runtime and job submission). This is based of the Hellow World tutorial by <a href="https://quantum.cloud.ibm.com/docs/en/tutorials/hello-world">IBM Quantum</a>
 
 Procedure: 
-1. Before submitting the __submission.sh__ file it is important to have created a conda environment with all necessary dependencies. At our cliuster these are the steps which can be found in our <a href=https://docs.rcc.fsu.edu/software/conda/">docs</a>:
+1. Before submitting the __submission.sh__ file it is important to have created a conda environment with all necessary dependencies. At our cliuster these are the steps which can be found in our <a href="https://docs.rcc.fsu.edu/software/conda/">docs</a>:
 ```
 module load anaconda
 conda create -n quantum
